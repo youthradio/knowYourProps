@@ -1,0 +1,49 @@
+  [{
+    "title":"Measure D",
+    "youth_lang":"At my high school, we didn't always have time to leave campus, so first thing in the morning, we'd stock up on snacks. Always a favorite: that jumbo bottle of cherry limeade iced-tea to sip the whole day long. If this measure passes, those sugary beverages--your Arizonas, your Brisks, you know what I'm talking about--will come with a 1 cent per fluid ounce tax paid by distributors (note: a typical can of soda is 12 ounces). The tax would not apply to diet drinks that are supposed to replace meals, milk products, pure juice, or drinks that people take for medical reasons. Chocolate lovers don't fret: that chocolate milk with whipped cream is apparently exempt!",
+    "arg_for":"With health concerns all over the news--obesity, heart disease, and diabetes to name a few--we need to put a stop to the prevalence of sugar in everything we eat! Here's a scary fact: according to Harvard University's School of Public Health, the empty calories in sugary beverages are the top calorie source in the teen diet.. This proposed tax will help kids stop, think... and reach for the water instead.",
+    "arg_against":"Adding a little tax isn't the way to change anyone's drinking habits. Plus, a tax on sweetened beverages could hurt businesses and young consumers, many of whom are already struggling to make ends meet. Also, the money from the tax will go into a general fund--which doesn't guarantee how it will be spent to promote nutrition.",
+    "location":"Berkeley, CA",
+    "subtitle":"Sugary Beverage Tax",
+    "money_for":"The American Heart Association, Center for Science in the Public Interest, former New York City mayor Michael Bloomberg.",
+    "money_against":"The American Beverage Association.",
+    "image": "images/measure_d.jpg"
+  },
+  {
+    "title":"Prop 47",
+    "youth_lang":"Back in grade school, we all learned, laws can change, right? That's exactly what Prop 47 is attempting to do. This proposition would downgrade a bunch of crimes--like some drug possession offenses, petty theft, writing bad checks--from felonies to misdemeanors, as long as the offender meets certain criteria (like no previous convictions for rape or murder). People already serving time could be eligible for re-sentencing, unless the court says they pose a public safety risk. The idea is, the proposition would save money, which could then be applied to improve schools and neighborhood safety.",
+    "arg_for":"Shoplifting, writing bad checks, receiving stolen property... These acts are sometimes called  'crimes of poverty,' meaning the kinds of things people sometimes do to hustle because they don't see other ways out of their current circumstances. Harsh punishments don't necessarily bring understanding on how to better yourself as a human being. Prop 47 keeps petty criminals from taking up space in prisons alongside dangerous criminals, like rapists, child molesters, and murderers. It also redirects hundreds of millions of dollars from jails to K-12 programs and mental health and drug treatment, helping to stop crime before it begins.",
+    "arg_against":"This proposition shortens sentences for some criminals, like people who have stolen guns or identities, or possessed narcotics. Anyone can see that's a bad idea, and thousands of offenders whose crimes would be reclassified to misdemeanors could be released back into the public, making our communities more dangerous and sending the wrong message.",
+    "location":"California",
+    "subtitle":"",
+    "money_for":"American Civil Liberties Union, Inc., Open Society Policy Center, NAACP, Netflix, American Federation of Teachers, University of California, The Women's Foundation of California.",
+    "money_against":"Los Angeles County Professional Peace Officers Association, California Peace Officers Association, California Police Chiefs Association, California Correctional Supervisors Organization.",
+    "image": "images/prop_47.jpg"
+  },
+  {
+    "title":"Measure FF",
+    "youth_lang":"If you're a teenager working an after-school job, you probably care about what you're paid. This measure aims to raise the citywide minimum wage to $12.25 to start off. More potential increases could come later, if the Consumer Price Index goes up. In addition, employers would have to provide employees with paid sick leave. And workers would have the right to sue their employers for refusing to operate by these standards",
+    "arg_for":"The poorest in our communities need a raise simply to maintain a normal standard of living. With more disposable cash, young people can do basic stuff, like buy groceries and school supplies, thus making Oakland a richer city. Plus, with the job market tight, teenagers constantly have to compete with adults for entry-level positions. Too many of us end up working at fast food places for ridiculously low wages. If this measure passes, maybe we won't have to skip lunch, or never go out with our friends. This model could of course be followed by other cities in the Bay Area, so Oakland wouldn't have a competitive disadvantage compared to nearby towns.",
+    "arg_against":"Raising the amount of money that employers have to pay is certain to force some local businesses out of the city, and into areas where there isn't such a high minimum wage. Some of these employers simply won't have the means to support staying in Oakland if this measure is passed. And with the job market already tough, if employers make some sort of mass exodus out of Oakland, the city's young people will be struggling even more to get paid work. Also, according to the city Auditor, if this measure passes, the city might need to cut back on its workforce training programs, which could result in fewer positions for young people.",
+    "location":"Oakland, CA",
+    "subtitle":"Increase Minimum Wage",
+    "money_for":"Lift Up in Oakland.",
+    "money_against":"",
+    "image": "images/measure_ff.jpg"
+  },
+  {
+    "title":"Prop H & Prop I",
+    "youth_lang_h": "Kids in San Francisco love to escape the busy city life by spending time with Mother Nature at Golden Gate Park. Prop H would require that the athletic fields stay covered in natural grass, and not synthetic turf, and prevent lights from being installed for after-dark play",
+    "youth_lang_i":"Basically, this proposition makes it easier to renovate parks (with stuff like synthetic turf and bright lights), as long as there's proof that those changes will get more people playing and don't mess with the environment.",
+    "youth_lang_final": "If you missed it, H and I do opposite things. And here's where it gets extra complicated: If both props pass, the turf/lights question in Golden Gate Park will go to the prop with the most votes.",
+    "arg_for_h": "What a shame if Golden Gate Park became a place of plastic grass, and if the big lights blocked those killer views of night-time stars. Plus, astroturf could be bad for the park's ecosystem and your health.",
+   "arg_for_i":"Kids need more safe places to play, and longer hours to do it. Artificial turf is way easier to maintain than natural grass. And hello, we're in the middle of a record-breaking drought.",
+    "arg_against_h":"Kids need more safe places to play, and longer hours to do it. Artificial turf is way easier to maintain than natural grass. And hello, we're in the middle of a record-breaking drought.",
+    "arg_against_i":"What a shame if our parks became places of plastic grass, and if the big lights blocked those killer views of night-time stars. Plus, astroturf could be bad for our city's ecosystem and your health.",
+    "arg_against_final":"If these arguments look familiar, you guessed it! Support for one is opposition for the other. And vice versa. Get it?",
+    "location":"San Francisco, CA",
+    "subtitle":"",
+    "money_for":"",
+    "money_against":"",
+    "image": "images/prop_h.jpg"
+  }]

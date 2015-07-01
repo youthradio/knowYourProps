@@ -1,0 +1,262 @@
+body, html,{
+  height: 100%;
+}
+
+h1, h2, h3, h4, a{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+}
+
+
+
+.title{
+  font-family: 'Bangers', cursive;
+  letter-spacing: 3px;
+  font-size: 2em;
+}
+
+
+#info h1, #info h3{
+  text-shadow: 2px 2px 2px black
+}
+
+#about li{
+  font-family: 'Arimo', sans-serif;
+}
+
+.top-bar-section ul li > a{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.leaflet-left .leaflet-control{
+  display: none;
+}
+
+#map-cali .leaflet-bottom{
+  display: none!important;
+}
+
+.leaflet-popup-content-wrapper, .map-legends, .map-tooltip {
+  color: white;
+  background: #3C3C3C;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 15px;
+}
+.leaflet-popup-tip{
+  border-top: 10px solid #3C3C3C;
+}
+
+.logo{
+  height: 40px;
+  margin-right: 20px;
+  margin-bottom: 18px;
+}
+
+.top-bar{
+  background-color: #3C3C3C;
+  z-index: 3;
+  position: absolute;
+  width: 100%;
+}
+.top-bar-section li:not(.has-form) a:not(.button){
+  background: #3C3C3C;
+}
+
+#map{
+  height: 100%;
+}
+
+#map-container{
+  border: 3px solid #3C3C3C;
+  height: 45%;
+  width: 36%;
+  position: absolute;
+  top: 70px;
+  left: 10px;
+  z-index: 2;
+}
+
+#map-cali{
+  height: 100%;
+}
+
+.leaflet-top-pane {
+  pointer-events: none;
+}
+
+#info{
+  position: absolute;
+  z-index: 1000;
+  height: 120px;
+  width: 100%;
+  bottom: 0;
+  overflow: hidden;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+#bg{
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 120px;
+  background-size: cover;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.measure-d{
+  background-image: url("https://youthradio.org/innovationlab/knowyourprops/images/measure_d.jpg");
+    background-position:  50%;
+}
+
+
+.measure-ff{
+  background-image: url("https://youthradio.org/innovationlab/knowyourprops/images/measure_ff.jpg");
+  background-position: 50% 47%;
+}
+.prop-h{
+  background-image: url("https://youthradio.org/innovationlab/knowyourprops/images/prop_h.jpg");
+  background-position: 50% 82%;
+}
+.prop-i{
+  background-image: url("https://youthradio.org/innovationlab/knowyourprops/images/prop_i.jpg");
+  background-position: 50% 82%;
+}
+.prop-47{
+  background-image: url("https://youthradio.org/innovationlab/knowyourprops/images/prop_47.jpg");
+    background-position:  50%;
+}
+
+.props{
+  max-width: 100%;
+  height: 120px;
+  width: 100%;
+}
+
+.props h1, .props h3{
+  color: white;
+}
+
+.click-measure{
+  font-size: 50px;
+  position: relative;
+  height: 100%;
+}
+
+.d{
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+   background-color: #a4c874;
+}
+
+.ff{
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+   background-color: #5cb5ae;
+}
+.fourseven{
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+   background-color: #C41200;
+}
+
+.h{
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+   background-color: #e6a85f;
+}
+
+.click-measure .click-arr{
+  cursor: pointer;
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+.click-measure .click-arr i{
+  -webkit-transition: all 500ms ease;
+  -moz-transition: all 500ms ease;
+  -o-transition: all 500ms ease;
+  transition: all 500ms ease;
+}
+
+.click-arr-open{
+  background-color: rgba(128, 128, 128, 0.38);
+}
+.click-arr-open i{
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.no-touch .click-measure-d .click-arr:hover{
+  color: white;
+}
+
+.active{
+  color: white;
+}
+.no-touch.active:hover{
+  color:white;
+}
+
+#info.open{
+  height: 100%;
+  overflow: scroll;
+  background-color: white;
+}
+
+.bg-open{
+  height: 300px!important;
+}
+
+.xtra-margin{
+  margin-top: 50px;
+}
+
+.header1{
+  width: 100%;
+  background-color: #5cb5ae;
+}
+.header2{
+  width: 100%;
+  background-color: #a4c874;
+}
+.header3{
+  width: 100%;
+  background-color: #e6a85f;
+}
+.header4{
+  width: 100%;
+  background-color: #C41200;
+}
+
+@media only screen and (max-width: 40em) {
+  .title{
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0;
+  }
+  .logo{
+    display: none;
+  }
+ }

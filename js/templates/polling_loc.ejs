@@ -1,0 +1,8 @@
+<div class="large-12 columns text-center">
+  <h2>Your polling site is located at: </h2>
+  <% for (var key in address) { %>
+  <% if (address.hasOwnProperty(key)) { %>
+      <h4><%= address[key] %></h4>
+     <%}%>
+  <%}%>
+</div>
